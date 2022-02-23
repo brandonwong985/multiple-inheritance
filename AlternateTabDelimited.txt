@@ -1,0 +1,2 @@
+Entrée	NumberOfServings	Calories	TotalFat(g)	SatFat(g)	TransFat(g)	Cholest(mg)	Sodium(mg)	TotCarb(g)	Fiber(g)	TotSugars(g)	Protein(g)	Ingredients	CONTAINS
+Frozen Fried Rice	10	7	18	1	11	21	2	1	23	2	0	Rice$$Peas$Soy sauce$eggs$MSG	eggs
